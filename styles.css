@@ -382,32 +382,32 @@ p
 
 #auberge-la-cannebiere
 {
-  background-image: url('../img/hebergements/small/auberge-la-cannebiere.jpg');
+  background-image: url('img/hebergements/small/auberge-la-cannebiere.jpg');
 }
 
 #hotel-du-port
 {
-  background-image: url('../img/hebergements/small/hotel-du-port.jpg');
+  background-image: url('img/hebergements/small/hotel-du-port.jpg');
 }
 
 #hotel-les-mouettes
 {
-  background-image: url('../img/hebergements/small/hotel-les-mouettes.jpg');
+  background-image: url('img/hebergements/small/hotel-les-mouettes.jpg');
 }
 
 #hotel-de-la-mer
 {
-  background-image: url('../img/hebergements/small/hotel-de-la-mer.jpg');
+  background-image: url('img/hebergements/small/hotel-de-la-mer.jpg');
 }
 
 #auberge-le-panier
 {
-  background-image: url('../img/hebergements/small/auberge-le-panier.jpg');
+  background-image: url('img/hebergements/small/auberge-le-panier.jpg');
 }
 
 #hotel-chez-amina
 {
-  background-image: url('../img/hebergements/small/hotel-chez-amina.jpg');
+  background-image: url('img/hebergements/small/hotel-chez-amina.jpg');
 }
 
 /*hebergements populaires*/
@@ -480,17 +480,17 @@ p
 
 #top-suggestion .image-populaire-container
 {
-  background-image:url('../img/hebergements/small/hotel-le-soleil-du-matin.jpg');
+  background-image:url('img/hebergements/small/hotel-le-soleil-du-matin.jpg');
 }
 
 #middle-suggestion .image-populaire-container
 {
-  background-image:url('../img/hebergements/small/au-coeur-de-leau-chambres-dhotes.jpg');
+  background-image:url('img/hebergements/small/au-coeur-de-leau-chambres-dhotes.jpg');
 }
 
 #bottom-suggestion .image-populaire-container
 {
-  background-image:url('../img/hebergements/small/hotel-tout-bleu-et-blanc.jpg');
+  background-image:url('img/hebergements/small/hotel-tout-bleu-et-blanc.jpg');
 }
 
 .image-populaire-container
@@ -639,14 +639,14 @@ i[class="fas fa-star grey-star"]
 
 #vieux-port
 {
-  background-image: url("../img/activites/small/vieux-port.jpg");
+  background-image: url("img/activites/small/vieux-port.jpg");
   background-repeat: no-repeat;
   background-position: center bottom;
 }
 
 #fort-de-pomegues
 {
-  background-image: url("../img/activites/small/fort-de-pomegues.jpg");
+  background-image: url("img/activites/small/fort-de-pomegues.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -654,7 +654,7 @@ i[class="fas fa-star grey-star"]
 
 #iles-du-frioul
 {
-  background-image: url("../img/activites/small/iles-du-frioul.jpg");
+  background-image: url("img/activites/small/iles-du-frioul.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -662,14 +662,14 @@ i[class="fas fa-star grey-star"]
 
 #parc-national-des-calanques
 {
-  background-image: url("../img/activites/small/parc-national-des-calanques.jpg");
+  background-image: url("img/activites/small/parc-national-des-calanques.jpg");
   background-repeat: no-repeat;
   background-position: center bottom;
 }
 
 #notre-dame-de-la-garde
 {
-  background-image: url("../img/activites/small/notre-dame-de-la-garde.jpg");
+  background-image: url("img/activites/small/notre-dame-de-la-garde.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -679,7 +679,7 @@ i[class="fas fa-star grey-star"]
 
 #parc-longchamp
 {
-  background-image: url("../img/activites/small/parc-longchamp.jpg");
+  background-image: url("img/activites/small/parc-longchamp.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
